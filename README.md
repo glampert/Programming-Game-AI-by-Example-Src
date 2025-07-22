@@ -1,5 +1,5 @@
-# Programming Game AI by Example
+# Programming Game AI by Example Book Samples Source Code
 
-The download link in the <http://www.ai-junkie.com/books/toc_pgaibe.html> was broke.
+This is the source code distribution for the samples in Mat Buckland's Programming Game AI by Example book.
 
-I found it from a torrent and share it here.
+The download link in <http://www.ai-junkie.com/books/toc_pgaibe.html> is no longer available. This is a copy of the original distribution.
